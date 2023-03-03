@@ -1,0 +1,28 @@
+a{
+    display: inline-block;
+    margin-left: 20px;
+}
+banner{
+    width: 100%;
+}
+div{
+    display:inline;
+}
+nav{
+    display:inline-block;
+    margin: 30px;
+}
+p{
+    width: 480px;
+    height: 400px;
+    overflow: auto;
+}
+#hero-image{
+    display: block;
+}
+#sub-banner{
+    margin: 30px;
+}
+#featured{
+    margin: 30px;
+}
